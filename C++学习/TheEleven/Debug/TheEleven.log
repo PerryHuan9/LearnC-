@@ -1,0 +1,8 @@
+﻿  test.cpp
+f:\c++project\c++学习\theeleven\test.cpp(15): warning C4244: “参数”: 从“double”转换到“char”，可能丢失数据
+f:\c++project\c++学习\theeleven\test.cpp(35): warning C4305: “初始化”: 从“__int64”到“long”截断
+f:\c++project\c++学习\theeleven\test.cpp(35): warning C4309: “初始化”: 截断常量值
+f:\c++project\c++学习\theeleven\test.cpp(23): warning C4101: “i”: 未引用的局部变量
+  TheEleven.cpp
+  正在生成代码...
+  TheEleven.vcxproj -> F:\C++Project\C++学习\Debug\TheEleven.exe
